@@ -7,7 +7,7 @@ This project implements a priority queue in Go, which allows tasks to be schedul
 To install the project, use the following command:
 
 ```sh
-go get -u github.com/yourusername/prioq
+go get -u github.com/thuchenyusi/prioq
 ```
 
 ## Usage
